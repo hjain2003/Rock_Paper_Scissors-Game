@@ -41,7 +41,6 @@ function rockclick() {
 
 
 
-
 function paperclick() {
 
     let choicecontainer=document.querySelector('.choices');
